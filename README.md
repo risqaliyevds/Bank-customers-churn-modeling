@@ -25,4 +25,18 @@ Next, I will train and evaluate several machine learning models to predict custo
 
 Finally, I will interpret the model results and draw insights from them. I will identify the key features that contribute most to customer churn and make recommendations to the business on how to address these issues.
 
-By the end of this notebook, I hope to have built a robust customer churning model that can help businesses retain their customers and improve their bottom line.
+I found some interesting insights:
+
+**Based on the provided statistics for the bank's clients in different countries, here are some useful notes that could be made:**
+
+The proportion of exited clients varies significantly between countries, with France having the highest proportion (810/5014 = 16.14%), followed by Germany (814/2509 = 32.46%), and Spain having the lowest proportion (413/2477 = 16.69%).
+
+Germany has the largest absolute number of exited clients (814), even though it has fewer clients overall than France and Spain.
+
+The number of non-exited clients in France is much larger than in Spain and Germany, which could suggest that France is a key market for the bank.
+
+It would be useful to investigate further why the proportion of exited clients is higher in Germany compared to France and Spain, as this could indicate potential issues with customer retention or satisfaction in Germany.
+
+The bank could potentially use this information to focus on improving customer retention in countries where the proportion of exited clients is higher, or to invest in growth in countries where the number of non-exited clients is larger.
+
+Overall, these statistics provide some useful insights into the bank's customer base in different countries, and could help inform future business decisions.
