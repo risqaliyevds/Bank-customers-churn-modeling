@@ -9,11 +9,11 @@ This data set contains details of a bank's customers and the target variable is 
 4. Exploratory data analysis
 5. Feature engineering
 6. Model implementation
-  * RandomForestClassifier
-  * GradientBoostingClassifier
-  * XGBClassifier
-  * CatBoostClassifier
-  * LGBMClassifier
+  - RandomForestClassifier
+  - GradientBoostingClassifier
+  - XGBClassifier
+  - CatBoostClassifier
+  - LGBMClassifier
 7. Evaluation
 
 ### Introduction:
